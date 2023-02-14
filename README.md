@@ -1,12 +1,12 @@
-<h1>Smart Destination Challenge<h1>
+# Smart Destination Challenge
 
 Dashboard created for the Datathon competition of data analysis of tourism in Gran Canaria, Spain. https://smartdest.herokuapp.com/
 
-<h3>Objective<h3>
+## Objective
 
 The organization provided the participants with 173 datasets related to tourism in Gran Canaria, Spain. It was an open competition in the sense that there was no specific goal or question to answer, we were simply asked to come up with a value propositon for the data.
 
-<h3>Solution<h3>
+## Solution
 
 The proposed solution pretends to improve the tourism offer in the different regions of Las Palmas by enabling the identification of tourist profiles visiting the isle in function of the district and the time of the year. This information can be used by municipalities and commerces to better understand their visitors and adapt their services to their clients leisure interests and economical capabilities.
 
